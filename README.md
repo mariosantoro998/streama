@@ -29,7 +29,7 @@ We will keep this demo updated with our newest releases as they come, so that yo
 <span class="badge-patreon"><a href="https://www.patreon.com/user?u=7362340" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://www.paypal.me/AntoniaEngfors" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
-If you want to donate to the developer via bitcoin use 17rCUEX6KYQ8ZM4w39ttEUL7SUDnGCpcWq  
+If you want to donate to the developer via bitcoin use bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n  
 
 
 
